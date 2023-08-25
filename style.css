@@ -96,6 +96,7 @@ section{
     font-weight: 700;
     line-height: 1.1;
     margin-bottom: 20px;
+    padding: 5px;
 }
 .home-content .text-animate{
     position: relative;
